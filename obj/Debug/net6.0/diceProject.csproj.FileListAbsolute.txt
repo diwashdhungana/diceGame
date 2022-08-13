@@ -1,0 +1,15 @@
+/Users/diwashdhungana/Projects/diceProject/bin/Debug/net6.0/diceProject
+/Users/diwashdhungana/Projects/diceProject/bin/Debug/net6.0/diceProject.deps.json
+/Users/diwashdhungana/Projects/diceProject/bin/Debug/net6.0/diceProject.runtimeconfig.json
+/Users/diwashdhungana/Projects/diceProject/bin/Debug/net6.0/diceProject.dll
+/Users/diwashdhungana/Projects/diceProject/bin/Debug/net6.0/diceProject.pdb
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.csproj.AssemblyReference.cache
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.AssemblyInfoInputs.cache
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.AssemblyInfo.cs
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.csproj.CoreCompileInputs.cache
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.dll
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/refint/diceProject.dll
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.pdb
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/diceProject.genruntimeconfig.cache
+/Users/diwashdhungana/Projects/diceProject/obj/Debug/net6.0/ref/diceProject.dll
